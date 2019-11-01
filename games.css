@@ -1,0 +1,25 @@
+h1{
+    background: darkred;
+    padding: 2%;
+    margin: 0px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+a {
+    color: darkred;
+
+}
+a:hover{
+    color: blue;
+}
+p{
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+.line{
+    background: slategray;
+    margin-top: 0%;
+    margin-bottom: 2%;
+    padding: 1%;
+}
+footer{color: darkred}
